@@ -10,7 +10,7 @@ A curated assortment of .gh (Grasshopper) files each is a solution to a problem.
 [![GitHub top language](https://img.shields.io/github/languages/top/aashkann/grasshopper?logo=dotnet&style=flat-square)](https://github.com/aashkann/grasshopper)
 [![GitHub contributors](https://img.shields.io/github/contributors/aashkann/grasshopper?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADnSURBVHgB7ZTRDcIwDETdTgAblAlgAzoCI7AJ2YBswAgdoWzACB2hI5i4ciULYseqkOhHn2Q1anKOfYkCsLEqEPGWYuS4/1RHE/hNcCT36Xj3T0bHBqauBidL7ZMJQqaSyHOqDZYut0kUVQZw2qDpiFos6tPnWVXVPn0PNE7/uhQ7sDsv69hfjYtmQ4rW0AW5waAsejjs6xXtOHXBFWo0IsmVBBxUecfjBvNnRLRzZWr1aNsXRHc5otXiqWAfMdmA+lm8tCs4cHLLvpnWKMR+CVBvXRKtHKWn4ghlzrAU1G+H34aNv/MGGsRggTYOMdwAAAAASUVORK5CYIIA)](https://github.com/aashkann/grasshopper/graphs/contributors)
 
-Even if you plan to contribute to this collection, I'd be happy to have you involved.
+ If you plan to contribute to this collection, I'd be happy to have you involved.
 
 ## License
 
