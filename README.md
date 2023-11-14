@@ -14,4 +14,4 @@ A curated assortment of .gh (Grasshopper) files each is a solution to a problem.
 
 ## License
 
-Licensed under the [MIT license]().
+Licensed under the [MIT license](https://github.com/aashkann/grasshopper/blob/main/LICENSE).
