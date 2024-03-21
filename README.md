@@ -1,5 +1,5 @@
 # grasshopper
-Inspired by MAtt's [cgwiki](https://tokeru.com/cgwiki/) for Houdini. This is a curated assortment of .gh (Grasshopper) files each is a solution to a problem.
+Inspired by Matt's [cgwiki](https://tokeru.com/cgwiki/) for Houdini. This is a curated assortment of .gh (Grasshopper) files each is a solution to a problem.
 
 ![image0](https://github.com/aashkann/grasshopper/assets/101568776/183cf1ce-3bfa-4a03-8cb3-e06c49aee98e)
 
