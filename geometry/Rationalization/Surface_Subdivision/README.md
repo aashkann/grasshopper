@@ -1,6 +1,6 @@
 # Gh_Surface_Subdivision
 
-![](https://github.com/aashkann/grasshopper/blob/Surface_Subdivision_Ali/geometry/Rationalization/Surface_Subdivision/Assets/surface_subdivision.png)
+![](https://github.com/aashkann/grasshopper/blob/main/geometry/Rationalization/Surface_Subdivision/Assets/surface_subdivision.png)
 
  Grasshopper python component to subdivide a surface based on its curvature. This component subdivides a NURBS surface by evaluating mean curvature on various points and subdividing it using its isocurves on the max curvature point. It repeats this process until it meets the defined cretaria.
 
