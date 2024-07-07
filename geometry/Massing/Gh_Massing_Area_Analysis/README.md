@@ -1,6 +1,6 @@
 # Gh_Massing_Area_Analysis
 
-![](https://github.com/alitghomi/Gh_Massing_Area_Analysis/blob/main/Assets/area_analysis.jpg)
+![](https://github.com/aashkann/grasshopper/blob/Massing-Analysis/geometry/Massing/Gh_Massing_Area_Analysis/Assets/area_analysis.jpg)
 ![](https://github.com/alitghomi/Gh_Massing_Area_Analysis/blob/main/Assets/area_analysis_outputs.png)
 
 This Grasshopper file contours a given massing geometry or a collection of geometries based on a list of floor-to-floor heights and outputs areas, floor heights, etc., as well as floor plan boundaries and massing blocks.
