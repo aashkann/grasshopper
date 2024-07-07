@@ -1,6 +1,6 @@
 # Gh_Massing_Generation_From_Plan_Boundaries
 
-![](https://github.com/alitghomi/Gh_Massing_Generation_From_Plan_Boundaries/blob/main/Assets/sample.jpg)
+![](https://github.com/aashkann/grasshopper/blob/Massing-Analysis/geometry/Massing/Gh_Massing_Generation_From_Plan_Boundaries/Assets/sample.jpg)
 
 This Grasshopper file generates a massing from given plan boundaries as well as floor-to-floor heights and floor count of each boundary curve. It also returns basic area analysis metrics of the generated massing.
 
