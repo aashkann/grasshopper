@@ -1,6 +1,6 @@
 # Gh_Basic_Fluid_Sim
 
-![](https://github.com/alitghomi/GH_Basic_Fluid_Sim/blob/main/Assets/flowSample.gif)
+![](https://github.com/aashkann/grasshopper/blob/Basic_Fluid_Sim_Ali/geometry/landscape/Basic_Fluid_Sim/Assets/flowSample.gif)
 
 This Grasshopper file does a basic fluid simulation on a given geometry based on gravitational direction (Default: 0,0,-1)
 
